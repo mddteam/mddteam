@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mddteam
+- 👀 I’m interested in Mincraft, Docker and Typescript
+- 🌱 I’m currently using Typescript, HTML, CSS, Javascript
+- 📫 How to reach me mdd@bbn.one
